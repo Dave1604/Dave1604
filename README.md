@@ -15,27 +15,27 @@
 # 🛠️ Tech Stack
 
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=fff)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)  
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff)  
 
 **Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)  
-![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=fff)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)  
+![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)  
 
 **Web3 / Blockchain:**  
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)  
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=fff)  
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=fff)  
-![Ethers.js](https://img.shields.io/badge/-Ethers.js-253992?style=flat)  
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity)  
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=fff)  
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=fff)  
+![Ethers.js](https://img.shields.io/badge/-Ethers.js-253992?style=for-the-badge)  
 
 **Databases:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)  
 
 ---
 
@@ -54,9 +54,10 @@
 ---
 
 # 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-podewara12%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:podewara12@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
+
+[![Email](https://img.shields.io/badge/Email-podewara12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:podewara12@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pelumi-adewara-077096274)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ayodave5)  
 
 ---
 
