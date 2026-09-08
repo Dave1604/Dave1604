@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <rect width="1200" height="360" fill="#0d1117"/>
+  <line x1="56" y1="50" x2="1144" y2="50" stroke="#30363d" stroke-width="1"/>
+  <text x="56" y="92" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="4">PORTFOLIO / 2026</text>
+  <text x="56" y="168" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="56" letter-spacing="-1">PELUMI ADEWARA</text>
+  <text x="56" y="216" fill="#58a6ff" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="2">PRODUCT ENGINEER / FULL-STACK SOFTWARE ENGINEER</text>
+  <text x="56" y="272" fill="#c9d1d9" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="28">I design, build, and ship.</text>
+  <circle cx="58" cy="318" r="5" fill="#3fb950"/>
+  <text x="74" y="324" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1.5">LAGOS · GMT+1   /   OPEN TO REMOTE ROLES + CONTRACT WORK</text>
+  <line x1="56" y1="342" x2="1144" y2="342" stroke="#30363d" stroke-width="1"/>
+</svg>
