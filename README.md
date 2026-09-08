@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31966842/README.md)
+[README .md](https://github.com/user-attachments/files/31966999/README.md)
 <div align="center">
 
 <img src="./header.svg" alt="Pelumi Adewara — Product Engineer" width="100%" />
@@ -40,75 +40,131 @@ Remote roles · Contract work
 
 ## Selected work
 
-### QwamPay — WhatsApp-native fintech
-
-<img src="https://image.thum.io/get/width/1440/crop/900/noanimate/https://qwampay.com/" alt="QwamPay website" width="100%" />
-
 <table>
 <tr>
-<td width="33%" valign="top"><sub>ROLE</sub><br/><b>Full-stack engineering</b><br/>Frontend · Backend · Product UI</td>
-<td width="33%" valign="top"><sub>OUTCOME</sub><br/><b>~300 closed-beta testers</b><br/>Marketing, support and admin surfaces live</td>
-<td width="34%" valign="top"><sub>STACK</sub><br/><b>React · TypeScript</b><br/>Tailwind CSS · Node.js</td>
-</tr>
-</table>
+<td width="56%" valign="top">
+
+### QwamPay — WhatsApp-native fintech
 
 Three production frontends for a payments product that lives inside WhatsApp, plus backend work behind the payment flow and Meta Business messaging. The job was not just to make fintech look polished; it was to make a new behaviour feel obvious and trustworthy.
 
+**ROLE**  
+Full-stack engineering — Frontend · Backend · Product UI
+
+**OUTCOME**  
+~300 closed-beta testers · marketing, support and admin surfaces live
+
+**STACK**  
+React · TypeScript · Tailwind CSS · Node.js
+
 [Visit QwamPay ↗](https://qwampay.com) · [QWAM Technologies ↗](https://www.qwamtechnologies.com)
 
+</td>
+<td width="44%" valign="top">
+
+<a href="https://qwampay.com">
+<img src="https://image.thum.io/get/width/1600/crop/760/noanimate/https://qwampay.com/" alt="QwamPay homepage" width="100%" />
+</a>
+
+</td>
+</tr>
+</table>
+
 <br/>
+
+<table>
+<tr>
+<td width="56%" valign="top">
 
 ### Motoka — vehicle platform backend
 
-<img src="https://image.thum.io/get/width/1440/crop/900/noanimate/https://www.motoka.ng/" alt="Motoka website" width="100%" />
-
-<table>
-<tr>
-<td width="33%" valign="top"><sub>ROLE</sub><br/><b>Backend ownership</b><br/>API design · Database · Admin</td>
-<td width="33%" valign="top"><sub>OUTCOME</sub><br/><b>~5,000 car owners</b><br/>Nine-stage expiry automation</td>
-<td width="34%" valign="top"><sub>STACK</sub><br/><b>Node.js · Express</b><br/>PostgreSQL · Supabase</td>
-</tr>
-</table>
-
 Built the backend around the vehicle record as the core entity: auth, 2FA, KYC, uploads, payments, public APIs, and an automated reminder engine that treats document expiry as first-class product behaviour.
+
+**ROLE**  
+Backend ownership — API design · Database · Admin
+
+**OUTCOME**  
+~5,000 car owners · nine-stage expiry automation
+
+**STACK**  
+Node.js · Express · PostgreSQL · Supabase
 
 [Visit Motoka ↗](https://motoka.ng) · [Backend repository ↗](https://github.com/Dave1604/motoka-backend)
 
+</td>
+<td width="44%" valign="top">
+
+<a href="https://www.motoka.ng/">
+<img src="https://image.thum.io/get/width/1600/crop/760/noanimate/https://www.motoka.ng/" alt="Motoka homepage" width="100%" />
+</a>
+
+</td>
+</tr>
+</table>
+
 <br/>
+
+<table>
+<tr>
+<td width="56%" valign="top">
 
 ### Ronsho — bespoke fashion marketplace
 
-<img src="https://pelumi-adewara.vercel.app/work/ronsho.jpg" alt="Ronsho marketplace" width="100%" />
+A marketplace built around the two questions bespoke-fashion customers actually ask: **Can I trust this tailor?** and **Do they have the fabric I want?** Profiles, portfolios, fabrics, filters and bookings are designed as one decision flow rather than separate features.
 
-<table>
-<tr>
-<td width="33%" valign="top"><sub>ROLE</sub><br/><b>Solo full-stack build</b><br/>Product · Frontend · Backend</td>
-<td width="33%" valign="top"><sub>PRODUCT</sub><br/><b>Tailors + fabrics</b><br/>Discovery · Search · Bookings</td>
-<td width="34%" valign="top"><sub>STACK</sub><br/><b>React · TypeScript</b><br/>Node.js · Supabase</td>
-</tr>
-</table>
+**ROLE**  
+Solo full-stack build — Product · Frontend · Backend
 
-A marketplace built around the two questions bespoke-fashion customers actually ask: **Can I trust this tailor?** and **Do they have the fabric I want?** Profiles, portfolio, reviews, fabrics, filters and bookings are designed as one decision flow rather than separate features.
+**PRODUCT**  
+Tailors + fabrics · discovery · search · bookings
+
+**STACK**  
+React · TypeScript · Node.js · Supabase
 
 [View repository ↗](https://github.com/Dave1604/ronsho)
 
-<br/>
+</td>
+<td width="44%" valign="top">
 
-### Study Buddy — research-led e-learning
+<a href="https://github.com/Dave1604/ronsho">
+<img src="https://pelumi-adewara.vercel.app/work/ronsho.jpg" alt="Ronsho marketplace" width="100%" />
+</a>
 
-<img src="https://pelumi-adewara.vercel.app/work/study-buddy.png" alt="Study Buddy e-learning platform" width="100%" />
-
-<table>
-<tr>
-<td width="33%" valign="top"><sub>CONTEXT</sub><br/><b>Final-year dissertation</b><br/>Arden University</td>
-<td width="33%" valign="top"><sub>FOCUS</sub><br/><b>Evidence-based learning</b><br/>Feedback · Progress · Analytics</td>
-<td width="34%" valign="top"><sub>STACK</sub><br/><b>React · Express</b><br/>PostgreSQL · Recharts</td>
+</td>
 </tr>
 </table>
 
+<br/>
+
+<table>
+<tr>
+<td width="56%" valign="top">
+
+### Study Buddy — research-led e-learning
+
 Every engagement feature traces back to research rather than a feature wishlist: explanatory feedback instead of blind scoring, personal progress instead of competitive rankings, and honest lesson-duration metadata.
 
+**CONTEXT**  
+Final-year dissertation — Arden University
+
+**FOCUS**  
+Evidence-based learning · feedback · progress · analytics
+
+**STACK**  
+React · Express · PostgreSQL · Recharts
+
 [View repository ↗](https://github.com/Dave1604/study-buddy-platform)
+
+</td>
+<td width="44%" valign="top">
+
+<a href="https://github.com/Dave1604/study-buddy-platform">
+<img src="https://pelumi-adewara.vercel.app/work/study-buddy.png" alt="Study Buddy e-learning platform" width="100%" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
