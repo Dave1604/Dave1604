@@ -1,111 +1,177 @@
+[README.md](https://github.com/user-attachments/files/31966842/README.md)
 <div align="center">
 
 <img src="./header.svg" alt="Pelumi Adewara — Product Engineer" width="100%" />
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-pelumi--adewara.vercel.app-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://pelumi-adewara.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pelumi--adewara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pelumi-adewara)
-[![Email](https://img.shields.io/badge/Email-Padewara12%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:Padewara12@gmail.com)
-
 </div>
 
-## What I do
+<br/>
 
-I'm a **Product Engineer and Full-Stack Software Engineer** with 5+ years of practice building production web and mobile products across **fintech, automotive, marketplaces, real estate, and education**.
+<table>
+<tr>
+<td width="62%" valign="top">
 
-I work across the product stack — from interface design and frontend architecture to APIs, authentication, databases, integrations, and deployment.
+### Product engineering, end to end.
 
-**Currently:** Full-stack engineer at **QWAM Technologies / QwamPay** and **Motoka**.
+I work at the seam between **design and engineering** — shaping the interface, building the system behind it, and staying with the product until it ships.
+
+Five years of practice across fintech, automotive, marketplaces, and education. **Computer science gives me the rigor; freelance gives me the empathy.**
+
+</td>
+<td width="38%" valign="top">
+
+**CURRENT**  
+QwamPay · Motoka
+
+**BASED**  
+Lagos, Nigeria · GMT+1
+
+**OPEN TO**  
+Remote roles · Contract work
+
+**LINKS**  
+[Portfolio](https://pelumi-adewara.vercel.app) · [LinkedIn](https://www.linkedin.com/in/pelumi-adewara) · [Email](mailto:Padewara12@gmail.com)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Selected work
 
-### 01 — QwamPay
-**FINTECH · FRONTEND · BACKEND · PRODUCT UI**
+### QwamPay — WhatsApp-native fintech
 
-Production surfaces for a WhatsApp-native payments platform: marketing, support, admin, reusable UI infrastructure, and backend work behind WhatsApp payment flows and Meta Business messaging.
+<img src="https://image.thum.io/get/width/1440/crop/900/noanimate/https://qwampay.com/" alt="QwamPay website" width="100%" />
 
-`React` `TypeScript` `Tailwind CSS` `Node.js`
+<table>
+<tr>
+<td width="33%" valign="top"><sub>ROLE</sub><br/><b>Full-stack engineering</b><br/>Frontend · Backend · Product UI</td>
+<td width="33%" valign="top"><sub>OUTCOME</sub><br/><b>~300 closed-beta testers</b><br/>Marketing, support and admin surfaces live</td>
+<td width="34%" valign="top"><sub>STACK</sub><br/><b>React · TypeScript</b><br/>Tailwind CSS · Node.js</td>
+</tr>
+</table>
 
-[Live product →](https://qwampay.com) · [QWAM Technologies →](https://www.qwamtechnologies.com)
+Three production frontends for a payments product that lives inside WhatsApp, plus backend work behind the payment flow and Meta Business messaging. The job was not just to make fintech look polished; it was to make a new behaviour feel obvious and trustworthy.
 
-### 02 — Motoka
-**AUTOMOTIVE · BACKEND · API DESIGN · DATABASE**
+[Visit QwamPay ↗](https://qwampay.com) · [QWAM Technologies ↗](https://www.qwamtechnologies.com)
 
-Backend architecture for a vehicle-documents platform serving around 5,000 registered car owners — auth, 2FA, KYC, vehicle records, payments, uploads, REST APIs, and automated expiry reminders.
+<br/>
 
-`Node.js` `Express` `PostgreSQL` `Supabase` `REST`
+### Motoka — vehicle platform backend
 
-[Live product →](https://motoka.ng) · [Backend repository →](https://github.com/Dave1604/motoka-backend)
+<img src="https://image.thum.io/get/width/1440/crop/900/noanimate/https://www.motoka.ng/" alt="Motoka website" width="100%" />
 
-### 03 — Ronsho
-**MARKETPLACE · FULL-STACK · SOLO BUILD**
+<table>
+<tr>
+<td width="33%" valign="top"><sub>ROLE</sub><br/><b>Backend ownership</b><br/>API design · Database · Admin</td>
+<td width="33%" valign="top"><sub>OUTCOME</sub><br/><b>~5,000 car owners</b><br/>Nine-stage expiry automation</td>
+<td width="34%" valign="top"><sub>STACK</sub><br/><b>Node.js · Express</b><br/>PostgreSQL · Supabase</td>
+</tr>
+</table>
 
-A Nigerian bespoke-fashion marketplace connecting customers with tailors and fabric sellers, with discovery, profiles, fabrics, search, fitting requests, and bookings.
+Built the backend around the vehicle record as the core entity: auth, 2FA, KYC, uploads, payments, public APIs, and an automated reminder engine that treats document expiry as first-class product behaviour.
 
-`React` `TypeScript` `Vite` `Tailwind` `Node.js` `Supabase`
+[Visit Motoka ↗](https://motoka.ng) · [Backend repository ↗](https://github.com/Dave1604/motoka-backend)
 
-[Repository →](https://github.com/Dave1604/ronsho)
+<br/>
 
-### 04 — Study Buddy
-**EDUCATION · FULL-STACK · RESEARCH**
+### Ronsho — bespoke fashion marketplace
 
-A dissertation-grade e-learning platform built around evidence-based learning features: in-lesson quizzes, explanatory feedback, progress tracking, and honest course-duration estimates.
+<img src="https://pelumi-adewara.vercel.app/work/ronsho.jpg" alt="Ronsho marketplace" width="100%" />
 
-`React` `Node.js` `Express` `Supabase / PostgreSQL` `Recharts`
+<table>
+<tr>
+<td width="33%" valign="top"><sub>ROLE</sub><br/><b>Solo full-stack build</b><br/>Product · Frontend · Backend</td>
+<td width="33%" valign="top"><sub>PRODUCT</sub><br/><b>Tailors + fabrics</b><br/>Discovery · Search · Bookings</td>
+<td width="34%" valign="top"><sub>STACK</sub><br/><b>React · TypeScript</b><br/>Node.js · Supabase</td>
+</tr>
+</table>
 
-[Repository →](https://github.com/Dave1604/study-buddy-platform)
+A marketplace built around the two questions bespoke-fashion customers actually ask: **Can I trust this tailor?** and **Do they have the fabric I want?** Profiles, portfolio, reviews, fabrics, filters and bookings are designed as one decision flow rather than separate features.
+
+[View repository ↗](https://github.com/Dave1604/ronsho)
+
+<br/>
+
+### Study Buddy — research-led e-learning
+
+<img src="https://pelumi-adewara.vercel.app/work/study-buddy.png" alt="Study Buddy e-learning platform" width="100%" />
+
+<table>
+<tr>
+<td width="33%" valign="top"><sub>CONTEXT</sub><br/><b>Final-year dissertation</b><br/>Arden University</td>
+<td width="33%" valign="top"><sub>FOCUS</sub><br/><b>Evidence-based learning</b><br/>Feedback · Progress · Analytics</td>
+<td width="34%" valign="top"><sub>STACK</sub><br/><b>React · Express</b><br/>PostgreSQL · Recharts</td>
+</tr>
+</table>
+
+Every engagement feature traces back to research rather than a feature wishlist: explanatory feedback instead of blind scoring, personal progress instead of competitive rankings, and honest lesson-duration metadata.
+
+[View repository ↗](https://github.com/Dave1604/study-buddy-platform)
 
 ---
 
 ## Working set
 
-**Interface**  
-`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion`
-
-**Backend**  
-`Node.js` · `Express` · `REST APIs` · `Authentication` · `2FA` · `KYC`
-
-**Data**  
-`PostgreSQL` · `Supabase` · `MongoDB`
-
-**Mobile & Product**  
-`React Native` · `Figma` · `Design Systems` · `Prototyping`
+<table>
+<tr>
+<td width="25%" valign="top">
+<b>Interface</b><br/><br/>
+React<br/>
+Next.js<br/>
+TypeScript<br/>
+Tailwind CSS<br/>
+Framer Motion
+</td>
+<td width="25%" valign="top">
+<b>Systems</b><br/><br/>
+Node.js<br/>
+Express<br/>
+REST APIs<br/>
+Auth / 2FA<br/>
+KYC
+</td>
+<td width="25%" valign="top">
+<b>Data</b><br/><br/>
+PostgreSQL<br/>
+Supabase<br/>
+MongoDB<br/>
+Storage<br/>
+Scheduled jobs
+</td>
+<td width="25%" valign="top">
+<b>Product</b><br/><br/>
+React Native<br/>
+Figma<br/>
+Design systems<br/>
+Prototyping<br/>
+Accessibility
+</td>
+</tr>
+</table>
 
 ---
 
 ## How I build
 
-- **Design and code belong in the same conversation.** I move between product thinking, Figma, and implementation.
-- **Performance is a product decision.** Speed, payload, image weight, and first paint are part of the experience.
-- **Interfaces should feel honest.** Loading states, errors, and labels should tell users exactly what is happening.
-- **Build small, ship often.** I prefer useful production increments over oversized launches.
-- **Accessibility is the floor, not the finish.** Semantic structure, focus order, contrast, and motion preferences matter.
+### Design and code at the same table
+I move between Figma and the editor in the same hour. Decisions made with both files open are better than decisions thrown over a hand-off.
+
+### Performance is a design decision
+Speed is part of how an interface feels. Image weight, route caching, payload size and first paint are product decisions, not cleanup work.
+
+### Interfaces should feel honest
+Loading states tell the truth. Error messages name the thing. Buttons say what they do. Confidence comes from clarity.
 
 ---
-
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dave1604&show_icons=true&hide_border=true&bg_color=00000000&title_color=f0f6fc&text_color=8b949e&icon_color=3fb950&hide_rank=true" alt="Pelumi's GitHub stats" />
-
-</div>
-
----
-
-<div align="center">
 
 ### Building something worth shipping?
 
 I'm open to **full-time remote roles** and **contract product work**.
 
-[Portfolio](https://pelumi-adewara.vercel.app) ·
-[LinkedIn](https://www.linkedin.com/in/pelumi-adewara) ·
-[Email](mailto:Padewara12@gmail.com)
+**[Portfolio](https://pelumi-adewara.vercel.app)** ·
+**[LinkedIn](https://www.linkedin.com/in/pelumi-adewara)** ·
+**[Email](mailto:Padewara12@gmail.com)**
 
 <sub>Lagos, Nigeria · GMT+1 · UK/EU full-day overlap · US East Coast morning overlap</sub>
-
-</div>
