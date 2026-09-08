@@ -1,64 +1,111 @@
 <div align="center">
-  <a href="https://github.com/Dave1604">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Pelumi+%28%40Dave1604%29;Full-Stack+Developer;Frontend+Developer+%28React+%2B+Next.js%29;Web3+Builder+%7C+Solidity+%7C+Ethers.js;Always+learning,+building,+shipping+🚀" alt="Typing SVG" />
-  </a>
 
-  <br/><br/>
+<img src="./header.svg" alt="Pelumi Adewara — Product Engineer" width="100%" />
 
-  <img src="https://komarev.com/ghpvc/?username=Dave1604&color=blueviolet&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Dave1604?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/Dave1604?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-pelumi--adewara.vercel.app-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://pelumi-adewara.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pelumi--adewara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pelumi-adewara)
+[![Email](https://img.shields.io/badge/Email-Padewara12%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:Padewara12@gmail.com)
+
+</div>
+
+## What I do
+
+I'm a **Product Engineer and Full-Stack Software Engineer** with 5+ years of practice building production web and mobile products across **fintech, automotive, marketplaces, real estate, and education**.
+
+I work across the product stack — from interface design and frontend architecture to APIs, authentication, databases, integrations, and deployment.
+
+**Currently:** Full-stack engineer at **QWAM Technologies / QwamPay** and **Motoka**.
+
+---
+
+## Selected work
+
+### 01 — QwamPay
+**FINTECH · FRONTEND · BACKEND · PRODUCT UI**
+
+Production surfaces for a WhatsApp-native payments platform: marketing, support, admin, reusable UI infrastructure, and backend work behind WhatsApp payment flows and Meta Business messaging.
+
+`React` `TypeScript` `Tailwind CSS` `Node.js`
+
+[Live product →](https://qwampay.com) · [QWAM Technologies →](https://www.qwamtechnologies.com)
+
+### 02 — Motoka
+**AUTOMOTIVE · BACKEND · API DESIGN · DATABASE**
+
+Backend architecture for a vehicle-documents platform serving around 5,000 registered car owners — auth, 2FA, KYC, vehicle records, payments, uploads, REST APIs, and automated expiry reminders.
+
+`Node.js` `Express` `PostgreSQL` `Supabase` `REST`
+
+[Live product →](https://motoka.ng) · [Backend repository →](https://github.com/Dave1604/motoka-backend)
+
+### 03 — Ronsho
+**MARKETPLACE · FULL-STACK · SOLO BUILD**
+
+A Nigerian bespoke-fashion marketplace connecting customers with tailors and fabric sellers, with discovery, profiles, fabrics, search, fitting requests, and bookings.
+
+`React` `TypeScript` `Vite` `Tailwind` `Node.js` `Supabase`
+
+[Repository →](https://github.com/Dave1604/ronsho)
+
+### 04 — Study Buddy
+**EDUCATION · FULL-STACK · RESEARCH**
+
+A dissertation-grade e-learning platform built around evidence-based learning features: in-lesson quizzes, explanatory feedback, progress tracking, and honest course-duration estimates.
+
+`React` `Node.js` `Express` `Supabase / PostgreSQL` `Recharts`
+
+[Repository →](https://github.com/Dave1604/study-buddy-platform)
+
+---
+
+## Working set
+
+**Interface**  
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion`
+
+**Backend**  
+`Node.js` · `Express` · `REST APIs` · `Authentication` · `2FA` · `KYC`
+
+**Data**  
+`PostgreSQL` · `Supabase` · `MongoDB`
+
+**Mobile & Product**  
+`React Native` · `Figma` · `Design Systems` · `Prototyping`
+
+---
+
+## How I build
+
+- **Design and code belong in the same conversation.** I move between product thinking, Figma, and implementation.
+- **Performance is a product decision.** Speed, payload, image weight, and first paint are part of the experience.
+- **Interfaces should feel honest.** Loading states, errors, and labels should tell users exactly what is happening.
+- **Build small, ship often.** I prefer useful production increments over oversized launches.
+- **Accessibility is the floor, not the finish.** Semantic structure, focus order, contrast, and motion preferences matter.
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dave1604&show_icons=true&hide_border=true&bg_color=00000000&title_color=f0f6fc&text_color=8b949e&icon_color=3fb950&hide_rank=true" alt="Pelumi's GitHub stats" />
+
 </div>
 
 ---
 
-# 🛠️ Tech Stack
+<div align="center">
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff)  
+### Building something worth shipping?
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)  
-![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)  
+I'm open to **full-time remote roles** and **contract product work**.
 
-**Web3 / Blockchain:**  
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity)  
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=fff)  
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=fff)  
-![Ethers.js](https://img.shields.io/badge/-Ethers.js-253992?style=for-the-badge)  
+[Portfolio](https://pelumi-adewara.vercel.app) ·
+[LinkedIn](https://www.linkedin.com/in/pelumi-adewara) ·
+[Email](mailto:Padewara12@gmail.com)
 
-**Databases:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)  
+<sub>Lagos, Nigeria · GMT+1 · UK/EU full-day overlap · US East Coast morning overlap</sub>
 
----
-
-# 🌱 Currently Exploring
-- Building **DApps** with Solidity + Next.js  
-- Experimenting with **DeFi & NFTs**  
-- Scaling full-stack apps with **cloud & DevOps**  
-- Contributing to open-source ✨  
-
----
-
-# 📊 GitHub Stats
-![Pelumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dave1604&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dave1604&layout=compact&theme=radical)
-
----
-
-# 📫 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-podewara12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:podewara12@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pelumi-adewara-077096274)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ayodave5)  
-
----
-
-⭐️ *“Always learning, always building, always shipping.”* 🚀
+</div>
